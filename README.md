@@ -14,3 +14,7 @@ Replace "YourPushBulletToken" variable in the pushbulletmodule.py file by your t
 
 To run the script as deamon, you can use "nohup python alert-pushbullet &"
 
+
+
+Thanks to https://simplypython.wordpress.com/tag/pushbullet/ for the pushbullet module.
+
